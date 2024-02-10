@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="RestAssured Test">
+
+	
+	<test name="POM Test">
+		<classes>
+			<class name="com.practice.seleniums2.test.RegisterTest"></class>
+			<class name="com.practice.seleniums2.test.LoginTest"></class>
+			<class name="com.practice.seleniums2.test.SearchTest"></class>
+			<class name="com.practice.seleniums2.test.AddToCartTest"></class>
+		</classes>
+	</test>
+	
+	
+</suite>
